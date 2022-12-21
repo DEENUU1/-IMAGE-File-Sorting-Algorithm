@@ -1,6 +1,6 @@
 
-# Image Sorting Algorithm.
-## Flips photos into folders by month.
+# [IMAGE]File Sorting Algorithm.
+## Flips [IMAGE]files into folders by month.
 
 If the photo was taken in August, the program will move it to a folder named '8' and then delete from the main folder.
 
